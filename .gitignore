@@ -4,3 +4,5 @@
 ### FontForge ###
 *.sfd-* 
 *.sfd~
+
+.DS_Store
