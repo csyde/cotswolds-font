@@ -1,4 +1,8 @@
-﻿The font file in this archive was created using Fontstruct the free, online
+Cotswolds is -- well, was -- an attempt to create a free Cheltenham. The name was meant to be temporary, but it seems that it'll have to stay for now since it's moved away a bit from the Chelt mold. 
+
+The base ASCII set was roughed out with Fontstruct.com. Further edits have been done in FontForge on macOS. Some glyphs *may* have been stolen from other FOSS fonts. 
+
+The font file in this archive was created using Fontstruct the free, online
 font-building tool.
 This font was created by “csyde”.
 This font has a homepage where this archive and other versions may be found:
