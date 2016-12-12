@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: CotswaldsItalic
-FullName: Cotswalds Italic
-FamilyName: Cotswalds
+FontName: CotswoldsItalic
+FullName: Cotswolds Italic
+FamilyName: Cotswolds
 Weight: Regular
 Copyright: Copyright (c) 2016, Brian Connors
 UComments: "2016-12-12: Created with FontForge (http://fontforge.org)"
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1481521957
-ModificationTime: 1481522008
+ModificationTime: 1481522121
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -43,6 +43,7 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
